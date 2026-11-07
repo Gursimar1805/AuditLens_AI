@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/images/
+data/labels/
+data/uploads/
+data/*.db
+data/*.pdf
+data/batch_meta.json
+models/*.pt
+models/*.joblib
+models/*.json
+.venv/
